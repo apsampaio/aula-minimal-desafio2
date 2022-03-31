@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="./.github/LogoPackage.svg" width="320" alt="Nest Logo" /></a>
+  <a><img src="./.github/LogoPackage.svg" width="320" alt="Package" /></a>
 </p>
 
 <h3 align="center">
@@ -13,7 +13,7 @@
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
-## Description
+## Descrição
 
 Neste desafio você deve desenvolver uma API para o controle de envio de pacotes utilizando o .NET Core 6 Minimal APIs.
 
